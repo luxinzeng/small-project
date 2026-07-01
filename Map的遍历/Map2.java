@@ -7,7 +7,7 @@ import java.util.Set;
 public class Map2 {
     static void main() {
         Map<String,String> map = new HashMap<>();
-
+        //1
         map.put("1男","1女");
         map.put("2男","2女");
         map.put("3男","3女");

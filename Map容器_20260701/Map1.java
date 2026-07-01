@@ -8,5 +8,6 @@ public class Map1 {
         Map<String,String> map = new HashMap<>();
         //map的特征双列集合，由键和值组成，每个键都是唯一的
         map.put("张三","21");
+        //1
     }
 }
